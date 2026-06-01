@@ -187,7 +187,7 @@ The data shows that buying long when the market is scared is an idea.
 
 ## Finding 6: Borrowing Matters
 
-### Borrowing a 1-2 times)
+### Borrowing a (1-2 times)
 
 This gives the consistent results.
 
